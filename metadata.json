@@ -1,0 +1,5 @@
+{
+  "name": "Grandmaster Web",
+  "description": "A modern, real-time chess platform to play with friends. Features Firebase synchronization, local multiplayer, and an AI assistant powered by Gemini 2.5.",
+  "requestFramePermissions": []
+}
